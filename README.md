@@ -16,5 +16,6 @@ A nodejs program that performs multiple operations on a stack data structure.
 - **Error Handling**: Handle stack overflow and underflow conditions with appropriate error messages.
 - **MultiPush**: Push multiple elements onto the stack at once.
 - **Swap**: Swap the top two elements in the stack.
+- **Search**: Search for an element in the stack.
 
 
