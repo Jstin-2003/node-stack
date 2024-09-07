@@ -14,6 +14,5 @@ A nodejs program that performs multiple operations on a stack data structure.
 - **forEach**: Iterate over the stack elements using a callback function.
 - **toArray**: Convert the stack into an array.
 - **Error Handling**: Handle stack overflow and underflow conditions with appropriate error messages.
-- **Clone**: Create a shallow copy of the stack.
 - **MultiPush**: Push multiple elements onto the stack at once.
 
