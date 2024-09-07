@@ -79,6 +79,14 @@ class Stack {
     }
     elements.forEach((el) => this.push(el));
   }
+
+  search(element) {
+    const index = this.items.lastIndexOf(element);
+    if (index === -1) {
+      return -1;
+    }
+    return this.size() - index;
+  }
 }
 
 module.exports = Stack
